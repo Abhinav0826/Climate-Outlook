@@ -10,10 +10,9 @@ A dynamic weather application developed using Swift and SwiftUI. The app provide
 
 ## Screenshots
 
-![Weather1](https://github.com/user-attachments/assets/75124787-7a0b-4358-87bb-8d0eeb9a9ad7)
+<img src="![Weather1](https://github.com/user-attachments/assets/d7038869-a906-4dea-aa87-9708c0c6033c)" width="40"/>
 
-![Weather2](https://github.com/user-attachments/assets/bf109449-0add-4726-8047-a86ac5668031)
-
+<img src="![Weather2](https://github.com/user-attachments/assets/ac30295a-eb97-4228-a180-3a7365ce6d7b)" width="40"/>
 
 
 ## Technologies Used
