@@ -1,4 +1,4 @@
-w# Weather Forecast App
+# Weather Forecast App
 
 A dynamic weather application developed using Swift and SwiftUI. The app provides real-time weather reports based on the user's current location.
 
