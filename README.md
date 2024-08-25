@@ -10,7 +10,7 @@ A dynamic weather application developed using Swift and SwiftUI. The app provide
 
 ## Screenshots
 
-Find how the project looks in screenshots folder Or [click here](https://github.com/Abhinav0826/Climate-Outlook/tree/main/Screenshots)
+Find how the project looks in screenshots folder or [click here](https://github.com/Abhinav0826/Climate-Outlook/tree/main/Screenshots)
 
 
 ## Technologies Used
