@@ -4,7 +4,7 @@ A dynamic weather application developed using Swift and SwiftUI. The app provide
 
 ## Features
 
-- DDisplays comprehensive weather information including temperature, weather description, minimum and maximum temperatures, wind speed, humidity, and current date and time.
+- Displays comprehensive weather information including temperature, weather description, minimum and maximum temperatures, wind speed, humidity, and current date and time.
 - Utilizes the OpenWeatherMap API for fetching weather data.
 - Adapts the UI dynamically to reflect different weather conditions and times of day.
 
